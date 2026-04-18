@@ -38,14 +38,10 @@ professionals, and teams manage tasks, schedules, and goals intelligently.
 - Activity Diagram
 - Data Flow Diagram
 
-
 ## 🧪 Testing
 16 test cases covering Login, Profile, Task Creation, Kanban,
 Daily Planner, Blockchain, Calendar Sync, Analytics, Admin Panel,
 Offline Mode, Voice Assistant and Security — all passed ✅
-
-## 🌐 Live Demo
-> Coming soon
 
 ## ⚠️ Note
 This is an academic project submitted for the Introduction to
