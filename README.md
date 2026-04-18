@@ -27,3 +27,7 @@ professionals, and teams manage tasks, schedules, and goals intelligently.
 - Admin Panel — Manage users, subscriptions, blockchain ledger viewer
 - Security — AES encryption, GDPR consent, session timeout
 
+## 🛠️ Development Approach
+- **Process Model:** Agile — Scrum framework
+- **Sprints:** Incremental delivery with backlog management
+- **Tools:** Balsamiq (wireframing), Git (version control), GitHub Projects
