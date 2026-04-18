@@ -31,3 +31,9 @@ professionals, and teams manage tasks, schedules, and goals intelligently.
 - **Process Model:** Agile — Scrum framework
 - **Sprints:** Incremental delivery with backlog management
 - **Tools:** Balsamiq (wireframing), Git (version control), GitHub Projects
+
+## 📐 System Design
+- Use Case Diagram
+- Class Diagram
+- Activity Diagram
+- Data Flow Diagram
