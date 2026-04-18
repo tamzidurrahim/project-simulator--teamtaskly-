@@ -43,3 +43,10 @@ professionals, and teams manage tasks, schedules, and goals intelligently.
 16 test cases covering Login, Profile, Task Creation, Kanban,
 Daily Planner, Blockchain, Calendar Sync, Analytics, Admin Panel,
 Offline Mode, Voice Assistant and Security — all passed ✅
+
+## 🌐 Live Demo
+> Coming soon
+
+## ⚠️ Note
+This is an academic project submitted for the Introduction to
+Software Engineering course, Summer 2024-25.
